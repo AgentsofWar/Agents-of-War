@@ -1,4 +1,4 @@
-# War and Peace (WarAgent): Large Language Model-based Multi-Agent Simulation of World Wars
+#  Agents of War: LLM-Based Simulations of Historical and Future Wars
 
 <a href='https://arxiv.org/abs/2311.17227'><img src='https://img.shields.io/badge/Paper-PDF-red'></a> 
 [![Code License](https://img.shields.io/badge/Code%20License-Apache_2.0-green.svg)](https://github.com/agiresearch/WarAgent/blob/main/LICENSE)
