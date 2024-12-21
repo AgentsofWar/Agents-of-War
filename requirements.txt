@@ -6,3 +6,4 @@ regex
 networkx
 matplotlib
 scikit-learn
+zep-ai
