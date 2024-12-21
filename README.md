@@ -140,7 +140,7 @@ link to [video](https://drive.google.com/file/d/1-0dh0Un72LhswMTiPsYn1xTb12xwjy0
 ## News
 
 -[2023.11.28] We release the initial version of WarAgent, including the source code, data, and evaluation metrics.
-
+- [2024.12.21] v2 of Agents of War released
 
 ## License
 The source code of WarAgent is licensed under [Apache 2.0](https://github.com/tatsu-lab/stanford_alpaca/blob/main/LICENSE). The intended purpose is solely for research use.
@@ -148,9 +148,9 @@ The source code of WarAgent is licensed under [Apache 2.0](https://github.com/ta
 ## Reference
 ```
 @article{hua2023war,
-      title={War and Peace (WarAgent): Large Language Model-based Multi-Agent Simulation of World Wars}, 
-      author={Wenyue Hua and Lizhou Fan and Lingyao Li and Kai Mei and Jianchao Ji and Yingqiang Ge and Libby Hemphill and Yongfeng Zhang},
-      year={2023},
+      title={Agents of War: LLM-Based Simulations of Historical and Future Wars}, 
+      author={@agentsofwar},
+      year={2024},
       eprint={2311.17227},
       archivePrefix={arXiv},
       primaryClass={cs.AI}
