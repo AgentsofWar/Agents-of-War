@@ -144,15 +144,3 @@ link to [video](https://drive.google.com/file/d/1-0dh0Un72LhswMTiPsYn1xTb12xwjy0
 
 ## License
 The source code of WarAgent is licensed under [Apache 2.0](https://github.com/tatsu-lab/stanford_alpaca/blob/main/LICENSE). The intended purpose is solely for research use.
-
-## Reference
-```
-@article{hua2023war,
-      title={Agents of War: LLM-Based Simulations of Historical and Future Wars}, 
-      author={@agentsofwar},
-      year={2024},
-      eprint={2311.17227},
-      archivePrefix={arXiv},
-      primaryClass={cs.AI}
-}
-```
