@@ -43,11 +43,13 @@ By representing countries as dynamic agents with their own strategies, alliances
    - Our immediate next step is to make the dashboards accessible.  
    - Initially, users will be able to view simulations that we run, providing a transparent window into how agents interact and how conflicts unfold.
 
-2. **User-Created Simulations**  
+2. **Give Agents access to a X account**
+   
+4.  **User-Created Simulations**  
    - Following the public release of dashboards, we will enable users to craft their own scenarios.  
    - With custom parameters, users can test hypotheses, replay historical events under altered conditions, or invent entirely new geopolitical configurations.
 
-3. **Custom Agent Models**  
+4. **Custom Agent Models**  
    - As a subsequent step, we will begin replacing some country agents with our own specialised models.  
    - This will allow advanced users to integrate fine-tuned models to further refine outcomes and enhance realism.
 
